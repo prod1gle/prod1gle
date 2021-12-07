@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @prod1gle
+- 👀 I’m interested in Machine learning and Statistics 
+- 📫 How to reach me : instagram.com/paarthhxd 
