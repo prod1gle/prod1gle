@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Paarth Arora
-- 👀 I’m interested in Machine learning and Statistics 
+- 👀 I’m interested in Computer Sciece, Web Developement, Statistics and Optimization
 - 📧 How to reach me : ppkarora@uwaterloo.ca
