@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Paarth Arora
-- 👀 I’m interested in Computer Sciece, Web Developement, Statistics and Optimization
-- 📧 How to reach me : ppkarora@uwaterloo.ca
+All interesting work is in private repos! 
+Reach me at: ppkarora@uwaterloo.ca 
+I enjoy math, poker and rubik's cubes. 
